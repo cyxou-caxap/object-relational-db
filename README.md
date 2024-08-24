@@ -27,7 +27,7 @@
 
 **Физическая модель:**
 
-![Физическая модель](model_diagrams/physical_diagram.png "Физическая модель")
+![Физическая модель](physical_diagram.png "Физическая модель")
 
 
 Создание и заполнение базы данных представлено в файлах [create_tables.sql](create_tables.sql) и [insert_data.sql](insert_data.sql).
