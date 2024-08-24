@@ -36,6 +36,6 @@
 
 Запросы реализованы в файле [queries.sql](queries.sql).
 
-Пользовательский оператор и пользовательская агрегатная функция выполнены в файле [us_def_operator_us_def_ aggr_fun.sql](us_def_operator_us_def_ aggr_fun.sql).
+Пользовательский оператор и пользовательская агрегатная функция выполнены в файле [us_def_operator_us_def_aggr_fun.sql](us_def_operator_us_def_aggr_fun.sql).
 
 ---
